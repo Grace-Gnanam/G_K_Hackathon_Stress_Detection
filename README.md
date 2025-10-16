@@ -7,13 +7,14 @@
 #### Problem Description:
 AI that monitors online student discussions to detect stress levels and suggest supportive resources. 
 Provide timely interventions and mental health support recommendations. 
+
+<img width="1024" height="768" alt="WorkFlow_Architecture" src="https://github.com/user-attachments/assets/fbdf145e-9d51-44e0-bed3-1caad8c2ae89" />
+
 <img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/8239b7d2-3af1-47bf-ab01-a4034e12bccf" />
 
 <img width="1917" height="959" alt="image" src="https://github.com/user-attachments/assets/37227de0-1ebb-4b9f-bfaf-5e4dcffead28" />
 
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/631a5fa6-1176-482b-8c5e-add31ffa8baa" />
-
-
 
 
 
